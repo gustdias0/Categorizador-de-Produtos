@@ -1,0 +1,16 @@
+ID_Produto,Nome_Produto,Descricao,Marca,EAN,Categoria_N1,Categoria_N2,Categoria_N3
+SKU-201,LEITE CONDENSADO MOCA LATA,Leite condensado integral, com 8% de gordura. Lata 395g,Nestlé,7891000047315,Mercearia,Doces,
+SKU-202,Cerveja Brahma Duplo Malte 350ml,Lata pack com 12 unidades,Brahma,7891149109918,Bebidas,Alcoólicas,Cervejas
+SKU-203,Cenoura (500g),Legume fresco, ideal para saladas e cozidos,Do Campo,1234567890123,Hortifruti,Legumes,
+SKU-204,Margarina com Sal Qualy 500G,Cremosa e com o sabor da margarina preferida do Brasil,"Qualy",7896051160109,Padaria,Manteigas,
+SKU-205,Lava Roupas Líquido ARIEL 1 Litro,Detergente líquido para roupas brancas e coloridas,Ariel,7500435133458,Limpeza,Roupas,Sabão
+SKU-206,Refrigerante Pepsi Black Garrafa 2L,Sem açúcar. Sabor intenso.,PEPSI,7892840813019,Bebidas,Não Alcoólicas,Refrigerantes
+SKU-207,Fralda Pampers Confort Sec - G,Pacote com 40 unidades. **PROMO**,Pampers,7500435132208,Infantil,Fraldas,
+SKU-208,Sal Refinado Cisne 1kg,Sal iodado,Cisne,7896076010014,Mercearia,Secos,Sal
+SKU-209,Amaciante Downy Concentrado 500ml,"Perfume que dura o dia todo, rende 2L",Downy,7500435138248,Limpeza,Amaciantes,
+SKU-210,Ketchup Tradicional Hemmer 320g,Feito com tomates selecionados,Hemmer,7896102500045,Mercearia,Molhos,
+SKU-211,Absorvente Intimus Gel Noturno c/ Abas,"Para um sono tranquilo, pacote com 32 unidades",Intimus,7896007540237,Higiene,Feminina,
+SKU-212,Pneu Aro 14 Pirelli P400,Pneu 175/65 R14 82T,Pirelli,7897664803126,Automotivo,Pneus,
+SKU-213,Óleo de Soja Soya 900ml,"Óleo vegetal, garrafa PET",SOYA,7896004210019,Mercearia,Óleos,
+SKU-214,Tinta para Cabelo Koleston 6.7,Cor Chocolate,Wella,4056800751034,Beleza,Coloração,
+SKU-215,Chocolate em Barra LACTA 90g,Chocolate ao leite,Lacta,7622300845348,Mercearia,Doces,Chocolates

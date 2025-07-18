@@ -1,8 +1,9 @@
 # Categorizador de Produtos
 
 
+GIF do funcionamento
 
-![GIF do funcionamento.](https://imgur.com/h2df3Mm)
+[![GIF do funcionamento.](https://imgur.com/h2df3Mm)](https://github.com/user-attachments/assets/56dca9b2-dd01-4bb2-b6fc-44ef9d9bf497)
 
 
 ---
